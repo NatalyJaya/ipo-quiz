@@ -46,3 +46,17 @@
     cursor: pointer;
 
 }
+
+.container .index {
+    margin : auto;
+    font-size: 18px;  
+}
+
+.container .correct{
+    background: #dffff2;
+    border: #00d397;
+}
+.container .wrong{
+    background: #ffd6d6;
+    border: #ff0000;
+}
